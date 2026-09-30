@@ -1,0 +1,6 @@
+{
+  "name": "Vektor Careers · Talent & Resume Hub",
+  "description": "Official career opportunities and automated resume submission portal powered by n8n workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
